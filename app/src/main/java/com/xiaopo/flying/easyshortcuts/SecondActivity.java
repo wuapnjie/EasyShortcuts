@@ -6,7 +6,7 @@ import android.support.v7.app.AppCompatActivity;
 import com.xiaopo.flying.annotation.AppShortcut;
 import com.xiaopo.flying.annotation.ShortcutApplication;
 
-@AppShortcut(resId = R.mipmap.ic_launcher,
+@AppShortcut(resId = R.drawable.shortcut,
         description = "Second Shortcut",
         rank = 1)
 public class SecondActivity extends AppCompatActivity {

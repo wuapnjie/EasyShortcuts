@@ -8,7 +8,7 @@ import com.xiaopo.flying.annotation.ShortcutApplication;
 import com.xiaopo.flying.easyshortcuts_api.ShortcutCreator;
 
 @ShortcutApplication
-@AppShortcut(resId = R.mipmap.ic_launcher,
+@AppShortcut(resId = R.drawable.shortcut,
         description = "First Shortcut",
         rank = 3)
 public class MainActivity extends AppCompatActivity {

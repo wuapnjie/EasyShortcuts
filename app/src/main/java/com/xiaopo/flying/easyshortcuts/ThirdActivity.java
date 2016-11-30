@@ -5,7 +5,7 @@ import android.support.v7.app.AppCompatActivity;
 
 import com.xiaopo.flying.annotation.AppShortcut;
 
-@AppShortcut(resId = R.mipmap.ic_launcher,
+@AppShortcut(resId = R.drawable.shortcut,
         description = "Third Shortcut",
         rank = 2)
 public class ThirdActivity extends AppCompatActivity {
