@@ -1,0 +1,1 @@
+include ':app', ':easyshortcuts-annotation', ':easyshortcuts-api', ':easyshortcuts-compiler'
